@@ -1,2 +1,2 @@
 # Forum-Content
-Articles and information from the forums converted to PDF for convenience.
+Collection of excellent articles and informational threads from the forums converted to PDF and featured here.
