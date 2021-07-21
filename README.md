@@ -1,2 +1,4 @@
-# Forum-Content
-Collection of excellent articles and informational threads from the forums converted to PDF and featured here.
+# Community Articles
+
+
+Articles, White Papers, Technical Write-Ups and more authored by members of the GreySec community. Curated by staff, selected for excellence.
